@@ -12,7 +12,7 @@
    "My Notes" is a simple and modern web notepad. Its data is stored in the browser itself using LocalStorage, ensuring user privacy. 
 </p>
 
-![montes2](https://github.com/gustavocoimbradev/my-notes/assets/115879524/f7263415-10ff-4416-895f-b7221a4c813c)
+![image](https://github.com/gustavocoimbradev/my-notes/assets/135629152/8af46bd8-f9a3-4974-a3c3-46383c2ae0c7)
 
 <a href="https://mynotes/">
   <img src="https://img.shields.io/badge/%F0%9F%93%8E-Try it for free-blue" alt="🔗 Try it for free" width="150" height="30">
