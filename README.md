@@ -1,4 +1,4 @@
-<h2>My Notes</h2>
+<h2>Swiftpad</h2>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -14,6 +14,6 @@
 
 ![image](https://github.com/gustavocoimbradev/my-notes/assets/135629152/8af46bd8-f9a3-4974-a3c3-46383c2ae0c7)
 
-<a href="https://mynotes.insider.blue/">
+<a href="https://swiftpad.vercel.app/">
   <img src="https://img.shields.io/badge/%F0%9F%93%8E-Try it for free-blue" alt="🔗 Try it for free" width="150" height="30">
 </a>
