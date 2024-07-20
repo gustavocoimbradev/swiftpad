@@ -9,7 +9,7 @@
 </p>
 
 <p>
-   "My Notes" is a simple and modern web notepad. Its data is stored in the browser itself using LocalStorage, ensuring user privacy. 
+   "Swiftpad" is a simple and modern web notepad. Its data is stored in the browser itself using LocalStorage, ensuring user privacy. 
 </p>
 
 ![image](https://github.com/gustavocoimbradev/my-notes/assets/135629152/8af46bd8-f9a3-4974-a3c3-46383c2ae0c7)
